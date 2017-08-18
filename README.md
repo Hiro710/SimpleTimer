@@ -1,6 +1,6 @@
-# simpleTimer
+# 暇潰しで作成したSimpleTimerです
 
-* 任意の保存場所にダウンロードしたらWebブラウザ(**推奨：GoogleChrome**)に**index.html**をドラッグ&ドロップしたら使えます
+* 任意の保存場所にダウンロードしたらWebブラウザ(**推奨：GoogleChrome**)のURL入力(表示)欄に**index.html**をドラッグ&ドロップしたら使用可能
 
 
 
